@@ -1,5 +1,3 @@
-from inspect import AGEN_CLOSED
-
 name = 'Armen'
 print(name)
 age = 28
